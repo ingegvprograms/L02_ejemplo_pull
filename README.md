@@ -1,2 +1,2 @@
-# L02_ejemplo_pull
+# Repositorio para practicar git pull
 Repositorio para entender el comando git pull.
